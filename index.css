@@ -1,0 +1,46 @@
+#topnav {
+  height: 100% !important;
+  width: 100%
+  position: relative;
+  top: 0;
+}
+#topnav:a {
+  float: left;
+}
+.button-link {
+  color: black;
+  width: 100%;
+  height: 100%;
+}
+#nav-button-1 {
+  width: 50%;
+  height: 100%;
+  font-size: 500%;
+  border: 1px solid black;
+  text-align: center;
+}
+#nav-button-2 {
+  width: 50%;
+  height: 100%;
+  font-size: 500%;
+  border: 1px solid black;
+  text-align: center;
+}
+#top {
+  height: 10% !important;
+  width: 100%;
+  z-index: 1;
+}
+
+.button-link:link { text-decoration: none; }
+.button-link:visited { text-decoration: none; }
+.button-link:hover { text-decoration: none; }
+.button-link:active { text-decoration: none; }
+#topb {
+
+}
+svg {
+  position: relative;
+  top: 0;
+  z-index: 2;
+}
